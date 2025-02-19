@@ -5,11 +5,13 @@ function onEdit(e){
   let column = range.getColumn();
   let row = range.getRow();
   let inputValue = e.value;
- 
+  // let cid = getRange(row, 1);
+  
   if(sheetName == 'Sheet1' && column == 2 )
   {
-    Logger.log(inputValue);
-    SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Sheet1').getRange('D2').setValue([inputValue]);
+    // Logger.log(cid);
+    // Logger.log("Getting the value "+inputValue+" and CID is "+cid);
+    SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Sheet1').getRange(row, 4).setValue([inputValue]);
   }
 
 }
