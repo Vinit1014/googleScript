@@ -1,0 +1,250 @@
+
+----New Request----
+2025-02-20 08:09:31
+POST Data: {"secret":"12345678","cid":15,"value":"Vinit"}
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd95f5Y51wxwr7Q08U0nmvduRMMYyQ)
+    [CONTENT_LENGTH] => 46
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [CONTENT_TYPE] => application/json
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226, 34.116.22.8
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 49335
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740035371.39
+    [REQUEST_TIME] => 1740035371
+)
+
+
+----New Request----
+2025-02-20 08:51:56
+POST Data: {"secret":"12345678","cid":"12","value":"test1"}
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd95f5Y51wxwr7Q08U0nmvduRMMYyQ)
+    [CONTENT_LENGTH] => 48
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [CONTENT_TYPE] => application/json
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226, 34.116.22.6
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 51368
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740037915.804
+    [REQUEST_TIME] => 1740037915
+)
+
+
+----New Request----
+2025-02-20 08:56:40
+POST Data: {"secret":"12345678","cid":"12","value":"test1"}
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd95f5Y51wxwr7Q08U0nmvduRMMYyQ)
+    [CONTENT_LENGTH] => 48
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [CONTENT_TYPE] => application/json
+    [HTTP_X_FORWARDED_FOR] => 107.178.224.39
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 51519
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740038200.387
+    [REQUEST_TIME] => 1740038200
+)
+
+
+----New Request----
+2025-02-20 08:57:41
+POST Data: {"secret":"12345678","cid":17,"value":"Testing 17 "}
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd95f5Y51wxwr7Q08U0nmvduRMMYyQ)
+    [CONTENT_LENGTH] => 52
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [CONTENT_TYPE] => application/json
+    [HTTP_X_FORWARDED_FOR] => 34.116.22.2
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 51554
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740038261.496
+    [REQUEST_TIME] => 1740038261
+)
+
+
+----New Request----
+2025-02-20 09:00:55
+POST Data: {"secret":"12345678","cid":18,"value":"Testing 18"}
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd95f5Y51wxwr7Q08U0nmvduRMMYyQ)
+    [CONTENT_LENGTH] => 51
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [CONTENT_TYPE] => application/json
+    [HTTP_X_FORWARDED_FOR] => 35.187.134.170
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 51616
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740038455.531
+    [REQUEST_TIME] => 1740038455
+)
+
