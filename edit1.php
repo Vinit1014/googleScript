@@ -16,6 +16,10 @@ class WebhookHandler {
     private $logFile = __DIR__ . '/googleSheets.log';
     private $secretKey = '12345678';
 
+    public function tryHello() {
+        echo("Hello world");
+    }
+
     public function handleRequest() {
 
         $postData = json_decode(file_get_contents('php://input'), true);
@@ -49,7 +53,30 @@ class WebhookHandler {
         http_response_code(200);
         echo json_encode(['status' => 'success', 'message' => 'Data received and logged']);
     }
-    
+
+    public function sendData($cid, $value) {
+
+        $url = "https://script.google.com/macros/s/AKfycbw1VqvoHUj9nXFzpvOg606T0Us6veM9pnu_laPzn_qUuoknsJGBysZWK2qCuX_KycI/exec";
+
+        $data = [
+            "cid" => $cid,
+            "value" => $value,
+        ];
+
+        $options = [
+            "http" => [
+                "header" => "Content-Type: application/json",
+                "method" => "POST",
+                "content" => json_encode($data),
+            ]
+        ];
+        
+        $context = stream_context_create($options);
+        $response = file_get_contents($url, false, $context);
+        echo json_encode(['status' => "Success", 'message' => 'Data recieved successfully 1']);
+        $this->writeToLog($response, "Recieved the response");
+    }
+                                                    
     public function writeToLog($data, $title = '') {
         $log = "\n------------------------\n";
         $log .= date("Y.m.d G:i:s") . "\n";
@@ -70,7 +97,9 @@ class WebhookHandler {
 try {
     $handler = new WebhookHandler();
     $handler->ensureLogFileExists();
-    $handler->handleRequest();
+    // $handler->handleRequest();
+    $handler->sendData(13, "Vinit 13");
+    // $handler->tryHello();
 } catch (Exception $e) {
     $handler->writeToLog($e->getMessage(), 'ERROR');
     http_response_code(500);

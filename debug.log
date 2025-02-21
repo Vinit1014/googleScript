@@ -248,3 +248,533 @@ Server Data: Array
     [REQUEST_TIME] => 1740038455
 )
 
+
+----New Request----
+2025-02-20 09:23:05
+POST Data: {"secret":"12345678","cid":1,"value":"Vinit Prajapati new"}
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd95f5Y51wxwr7Q08U0nmvduRMMYyQ)
+    [CONTENT_LENGTH] => 59
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [CONTENT_TYPE] => application/json
+    [HTTP_X_FORWARDED_FOR] => 34.116.22.3
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 52746
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740039785.234
+    [REQUEST_TIME] => 1740039785
+)
+
+
+----New Request----
+2025-02-20 11:38:23
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 56547
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740047903.543
+    [REQUEST_TIME] => 1740047903
+)
+
+
+----New Request----
+2025-02-20 11:42:56
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 56693
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740048176.84
+    [REQUEST_TIME] => 1740048176
+)
+
+
+----New Request----
+2025-02-20 11:57:13
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 57182
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740049033.382
+    [REQUEST_TIME] => 1740049033
+)
+
+
+----New Request----
+2025-02-20 12:26:27
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 58765
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740050786.827
+    [REQUEST_TIME] => 1740050786
+)
+
+
+----New Request----
+2025-02-20 13:11:13
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 61098
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740053472.616
+    [REQUEST_TIME] => 1740053472
+)
+
+
+----New Request----
+2025-02-20 13:36:59
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 9fe5-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 9fe5-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 9fe5-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 61957
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740055019.634
+    [REQUEST_TIME] => 1740055019
+)
+
+
+----New Request----
+2025-02-21 08:06:34
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 5b9e-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=5b9e-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 5b9e-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 5b9e-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 5b9e-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 60616
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740121594.665
+    [REQUEST_TIME] => 1740121594
+)
+
+
+----New Request----
+2025-02-21 08:07:07
+POST Data: 
+Server Data: Array
+(
+    [MIBDIRS] => E:/Softwares/XAMPP/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => E:/Softwares/XAMPP/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => 5b9e-103-145-8-226.ngrok-free.app
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8,gu;q=0.7
+    [HTTP_COOKIE] => abuse_interstitial=5b9e-103-145-8-226.ngrok-free.app
+    [HTTP_PRIORITY] => u=0, i
+    [HTTP_SEC_CH_UA] => "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_X_FORWARDED_FOR] => 103.145.8.226
+    [HTTP_X_FORWARDED_HOST] => 5b9e-103-145-8-226.ngrok-free.app
+    [HTTP_X_FORWARDED_PROTO] => https
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\mongosh\mongosh-1.6.1-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\nvm\v10.16.3;C:\Users\vinit\AppData\Local\nvm\v10.16.3\node_modules\npm\bin;C:\Users\vinit\AppData\Local\pnpm;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vinit\AppData\Local\Programs\Python\Python310\;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Users\vinit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\MongoDB\Server\5.0\bin;C:\Users\vinit\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Program Files\heroku\bin;C:\Users\vinit\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\vinit\AppData\Roaming\npm;C:\Users\vinit\AppData\Local\pnpm;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kind_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\vinit\AppData\Local\nvm;C:\nvm4w\nodejs;E:\Softwares\Python27;E:\Softwares\Python27\Scripts;C:\Users\vinit\AppData\Local\Microsoft\WinGet\Packages\Kubernetes.kubectl_Microsoft.Winget.Source_8wekyb3d8bbwe;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39 Server at 5b9e-103-145-8-226.ngrok-free.app Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.39
+    [SERVER_NAME] => 5b9e-103-145-8-226.ngrok-free.app
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => E:/Softwares/XAMPP/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => E:/Softwares/XAMPP/htdocs/googleSheets/edit1.php
+    [REMOTE_PORT] => 60638
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /googleSheets/edit1.php
+    [SCRIPT_NAME] => /googleSheets/edit1.php
+    [PHP_SELF] => /googleSheets/edit1.php
+    [REQUEST_TIME_FLOAT] => 1740121627.252
+    [REQUEST_TIME] => 1740121627
+)
+

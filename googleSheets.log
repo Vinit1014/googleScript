@@ -1,72 +1,18 @@
 
 ------------------------
-2025.02.20 8:56:40
-INCOMING POST REQUEST
-Array
-(
-    [secret] => 12345678
-    [cid] => 12
-    [value] => test1
-)
-
+2025.02.20 13:11:15
+Recieved the response
+{"status":"success1","message":"Data received successfully","cid":12,"value":"Sending data"}
 ------------------------
 
 ------------------------
-2025.02.20 8:56:40
-POST REQUEST DATA
-Array
-(
-    [cid] => 12
-    [value] => test1
-    [timestamp] => 2025-02-20 08:56:40
-)
-
+2025.02.20 13:37:04
+Recieved the response
+{"status":"success","message":"Data updated successfully"}
 ------------------------
 
 ------------------------
-2025.02.20 8:57:41
-INCOMING POST REQUEST
-Array
-(
-    [secret] => 12345678
-    [cid] => 17
-    [value] => Testing 17 
-)
-
-------------------------
-
-------------------------
-2025.02.20 8:57:41
-POST REQUEST DATA
-Array
-(
-    [cid] => 17
-    [value] => Testing 17 
-    [timestamp] => 2025-02-20 08:57:41
-)
-
-------------------------
-
-------------------------
-2025.02.20 9:00:55
-INCOMING POST REQUEST
-Array
-(
-    [secret] => 12345678
-    [cid] => 18
-    [value] => Testing 18
-)
-
-------------------------
-
-------------------------
-2025.02.20 9:00:55
-POST REQUEST DATA
-Array
-(
-    [cid] => 18
-    [value] => Testing 18
-    [timestamp] => 2025-02-20 09:00:55
-)
-
+2025.02.21 8:07:11
+Recieved the response
+{"status":"success","message":"Data updated successfully"}
 ------------------------
